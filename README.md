@@ -1,0 +1,2 @@
+# GlocalCompany
+GitHub Pages
