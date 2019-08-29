@@ -2228,7 +2228,7 @@ body {
 }
 .cid-rrWfpLnnRt {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rrWfpLnnRt .mbr-section-subtitle {
@@ -2284,76 +2284,20 @@ body {
     height: auto !important;
   }
 }
-.cid-ruHfCWgJ4c {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #ffffff, #f6ecea);
+.cid-rAx2h1N5Ny {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #f6ecea;
 }
-.cid-ruHfCWgJ4c .main {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+.cid-rAx2h1N5Ny P {
+  color: #767676;
 }
-.cid-ruHfCWgJ4c .main .mbr-section-btn {
-  text-align: right;
-}
-.cid-ruHfCWgJ4c .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-ruHfCWgJ4c H3 {
+.cid-rAx2h1N5Ny .mbr-text,
+.cid-rAx2h1N5Ny .mbr-section-btn {
   color: #000000;
 }
-.cid-rsjMLMkUis {
-  padding-top: 75px;
-  padding-bottom: 90px;
-  background: #ffffff;
-}
-.cid-rsjMLMkUis .images-container.container-fluid {
-  padding: 0;
-}
-.cid-rsjMLMkUis .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-rsjMLMkUis .media-container-row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  width: 100%;
-  z-index: 1;
-  -webkit-flex-direction: column;
-  -webkit-justify-content: center;
-}
-.cid-rsjMLMkUis .media-container-row .img-item img {
-  width: 100%;
-  min-height: 1px;
-}
-.cid-rsjMLMkUis .media-container-row .img-item .img-caption {
-  background: #ffffff;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-rsjMLMkUis .media-container-row .img-item .img-caption p {
-  margin-bottom: 0;
-}
-.cid-rsjMLMkUis .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-rsjMLMkUis .img-item {
-    width: 100% !important;
-  }
-  .cid-rsjMLMkUis .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-    -webkit-flex-basis: initial !important;
-  }
-}
 .cid-rrQhYvM7wF {
-  padding-top: 0px;
+  padding-top: 105px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
